@@ -29,3 +29,4 @@ data_process/CCT20/images/
 data_process/CCT20/processed/
 
 .ipynb_checkpoints/
+.DS_Store
